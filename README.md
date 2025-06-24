@@ -2,6 +2,8 @@
 
 This project explores a dataset of over 9,000 movies to extract actionable insights around genre popularity, audience ratings, release trends, and vote behavior. The goal is to provide data-driven support for content strategy, marketing, and production decisions.
 
+🔗 **Run in Google Colab:** [Open Notebook](https://colab.research.google.com/github/barath0704/movie-data-analysis/blob/main/movie_data_analysis.ipynb)
+
 ## 📌 Objectives
 
 - Analyze genre distribution and diversity
