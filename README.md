@@ -33,6 +33,9 @@ This project explores a dataset of over 9,000 movies to extract actionable insig
 | `cleaned_movies_dataset.csv` | Optional cleaned data for reuse |
 | `movie_data_analysis.pdf` | Shareable summary (optional) |
 
+## 🖼 Sample Visualization
+
+![Genre Distribution](sample_image.png)
 
 ## 📌 Summary
 
